@@ -45,6 +45,7 @@ module.exports = [
     'x64v.rpf',
     'x64w.rpf',
     'zlib1.dll',
+    'libtox.dll',
     /* Steam Install */
     'steam_api64.dll',
     'steam_appid.txt',
@@ -61,5 +62,8 @@ module.exports = [
     'EOSSDK-Win64-Shipping.dll',
     /* GTA 5 Cleaner */
     'gta5cleaner.exe',
-    'modstore'
+    'modstore',
+    /* Version dll */
+    'version.dll',
+    'version.dll.d'
 ]
